@@ -1,6 +1,6 @@
 # leetcode-roadmap
 Corrine Tan's Personal learning road map of LeetCode (Java + Python)
 
-### Step 0: [Two Sum](https://github.com/CorrineTan/spark-roadmap/tree/main/Udemy-Spark-Course)  
+### Step 0: [Warm Up](https://github.com/CorrineTan/leetcode-roadmap/tree/main/warm_up)  
 
 Warm up and get used to LeetCode
