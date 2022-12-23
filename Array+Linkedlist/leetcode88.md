@@ -16,15 +16,27 @@ class Solution {
         int i = m - 1;
         int j = n - 1;
         int cur = n + m - 1;
-        while (j > 0) {
+        while (j >= 0) {
             if (i > 0 && nums1[i] > nums2[j]){
                 nums1[cur] = nums1[i];
+                cur--;
+                i--;
             } else if (i > 0 && nums1[i] <= nums2[j]) {
                 nums1[cur] = nums2[j];
+                cur--;
+                j--;
             }
-            cur--;
-            i--;
         }
     }
 }
+```
+
+But else shouldn't have have condition in it. I dont understand this step clearly. Need to check other people's solution too. 
+
+```
+else {
+                nums1[cur] = nums2[j];
+                cur--;
+                j--;
+ }
 ```
