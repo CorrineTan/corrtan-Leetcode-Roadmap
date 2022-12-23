@@ -6,6 +6,6 @@ Corrine Tan's Personal learning road map of LeetCode (Java + Python)
 Warm up and get used to LeetCode
 
 
-### Step 1: [LinkedList](https://github.com/CorrineTan/leetcode-roadmap/tree/main/LinkedList)  
+### Step 1: [Array+Linkedlist](https://github.com/CorrineTan/leetcode-roadmap/tree/main/LinkedList)  
 
 LinkedList basic knowledge.
