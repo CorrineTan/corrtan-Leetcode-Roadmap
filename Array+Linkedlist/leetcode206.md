@@ -7,4 +7,5 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 BrainStorming:
 
 Regression: to the next of the node each time.
-Anytime set the next of the node, need to set it to "Null" first.
+Anytime set the next of the node, need to set it to "Null" first. <br>
+Then we can safely set the next to the previous node. 
