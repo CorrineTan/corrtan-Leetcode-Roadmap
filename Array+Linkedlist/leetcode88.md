@@ -57,4 +57,17 @@ Then simply sort it:
 Arrays.sort(nums1)
 ```
 
+But complexity: 
+
+For put nums2 into nums1: <br>
+Time complexity: O(N), Space Complexity: O(1)
+
+For sort nums1: <br>
+Time complexity: O((M+N)log(M+N)), Space Complexity: O(log(M+N))
+
+Approach 2: Three pointers
+
+Two read pointers for 2 arrays seperately. And one write pointer for the merged one (nums1).
+
+Time complexity: O(M+N), Space Complexity: O(1)
 
