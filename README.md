@@ -8,3 +8,7 @@ LeetCode 26 - Remove Duplicates from Sorted Array
 LeetCode 283 - Move Zeroes
 
 LeetCode 88 - Merge Sorted Array
+
+LeetCode 206 - Reverse Linked List
+
+LeetCode 25 - Reverse Nodes in k-Group
