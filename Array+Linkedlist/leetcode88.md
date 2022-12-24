@@ -42,3 +42,19 @@ else {
 ```
 
 ### Learn From Official Answer
+
+Approach 1: Sorting
+
+First put nums2 into the extra space of the nums1 by: 
+
+```
+nums1[m+i] = nums2[i]
+```
+
+Then simply sort it:
+
+```
+Arrays.sort(nums1)
+```
+
+

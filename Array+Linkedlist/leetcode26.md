@@ -58,6 +58,18 @@ if (i == 0 || nums[i] != nums[i-1])
 
 ### Learn From Official Answer
 In-place: not creating a new array. <br>
-Concept of 
+Concept of Pass by reference.
+
+The problem would have been simpler if we are allowed to use extra space. We can create a map which stores all unique array elements as the key and element frequency as the value. After populating our map, we get all the unique elements from our array. We then iterate our map and push all the keys in our input array. However, without using extra space it makes it a bit tricky as we have to modify the existing input array
+
+One possible solution: storing each element in a sorted set, then iterate the sorted set. <br>
+But complexity O(nlogn)
+
+Two-Pointer: <br>
+1st pointer is a looping pointer. 2nd pointer is insert index. <br>
+The 1st element will do it anyway. Starting from 2nd element, whenever there's a unique value, we need to update value at the insert index, then index index++.
+
+
+
 
 
