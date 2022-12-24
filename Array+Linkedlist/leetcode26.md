@@ -5,7 +5,7 @@
 Q:Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
 
 
-Brainstorming:
+Brainstorming: <br>
 Wanna have a for loop going through the elements and comparing with the previous one element, if same value I'll delete the latter one. However, leetcode's hint makes me to use Java Primitive array (instead of Arraylist), so remove is not a in-built method. 
 
 ```
@@ -56,5 +56,8 @@ This is because the 1st element don't need to be compared with the last element 
 if (i == 0 || nums[i] != nums[i-1])
 ```
 
+### Learn From Official Answer
+In-place: not creating a new array. <br>
+Concept of 
 
 

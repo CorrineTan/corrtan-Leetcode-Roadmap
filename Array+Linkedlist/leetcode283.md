@@ -14,3 +14,4 @@ Whenever hit non-0: should replace value on slow with current value. and still f
 Then replace all element after index slow to 0.
 
 
+### Learn From Official Answer
