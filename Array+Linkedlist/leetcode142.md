@@ -20,4 +20,3 @@ Set up another two pointers a and b, a is from the start of the linkiedlist, and
 ```
 x = n(x+y) - y
 ```
-
