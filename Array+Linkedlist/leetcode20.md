@@ -1,6 +1,6 @@
 ## Array and Linkedlist
 
-#### LeetCode 66 - Plus One
+#### LeetCode 20 - Valid Parentheses
 
 Question: Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
