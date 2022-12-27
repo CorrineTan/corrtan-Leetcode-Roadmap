@@ -14,3 +14,9 @@ LeetCode 206 - Reverse Linked List
 LeetCode 25 - Reverse Nodes in k-Group
 
 LeetCode 142 - Linked List Cycle II
+
+LeetCode 21 - Merge Two Sorted Lists
+
+LeetCode 20 - Valid Parentheses
+
+LeetCode 66 - Plus One
