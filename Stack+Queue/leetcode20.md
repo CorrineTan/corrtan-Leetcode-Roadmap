@@ -1,4 +1,4 @@
-## Array and Linkedlist
+## Stack and Queue
 
 #### LeetCode 20 - Valid Parentheses
 
