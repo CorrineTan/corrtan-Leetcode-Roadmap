@@ -19,6 +19,6 @@ LeetCode 21 - Merge Two Sorted Lists
 
 LeetCode 66 - Plus One
 
-### Step 1: [Array+Linkedlist](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Stack%2BQueue)  
+### Step 2: [Array+Linkedlist](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Stack%2BQueue)  
 
 LeetCode 20 - Valid Parentheses
