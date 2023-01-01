@@ -26,3 +26,5 @@ LeetCode 20 - Valid Parentheses
 LeetCode 155 - Min Stack
 
 LeetCode 224 - Basic Calculator
+
+LeetCode 84 -  Largest Rectangle in Histogram
