@@ -6,4 +6,6 @@ Question: Given an array of integers heights representing the histogram's bar he
 
 BrainStorming:
 
+same as trapping raining water 
+
 
