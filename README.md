@@ -37,4 +37,4 @@ LeetCode 641 - Design Circular Deque
 
 LeetCode 85 - Maximal Rectangle
 
-### Step 3: [HashMap+Collection+Map](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Stack%2BQueue)  
+### Step 3: [HashMap+Collection+Map](https://github.com/CorrineTan/leetcode-roadmap/tree/main/HashMap%2BCollection%2BMap)  
