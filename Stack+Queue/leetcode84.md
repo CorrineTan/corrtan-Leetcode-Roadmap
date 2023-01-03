@@ -6,6 +6,8 @@ Question: Given an array of integers heights representing the histogram's bar he
 
 BrainStorming:
 
-same as trapping raining water 
+Need to add two 0s in the beginning and endings (need to bring all the element out of stack).
+Use a monostack to store the index (increasing). Then for ith element, find the right index q(the 1st element's index that's smaller than ith element) and left index p (the 1st element's index that's smaller than the ith element). 
 
+Area is newHeights[i] * (q-p-1). Find the largest area.
 
