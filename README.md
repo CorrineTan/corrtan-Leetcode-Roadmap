@@ -40,4 +40,7 @@ LeetCode 85 - Maximal Rectangle
 ### Step 3: [HashMap+Collection+Map](https://github.com/CorrineTan/leetcode-roadmap/tree/main/HashMap%2BCollection%2BMap)  
 
 LeetCode 1 - Two Sums
+
 LeetCode 874 - Walking Robot Simulation
+
+LeetCode 49 - Group Anagrams
