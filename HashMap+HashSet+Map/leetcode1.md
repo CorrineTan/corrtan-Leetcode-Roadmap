@@ -1,4 +1,4 @@
-## HashMap + Colleciton + Map
+## HashMap + HashSet + Map
 
 #### LeetCode 1 - Two Sums
 

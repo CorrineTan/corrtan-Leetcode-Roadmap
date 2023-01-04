@@ -1,4 +1,4 @@
-## HashMap + HashSet + Map
+## HashMap + Set + Map
 
 #### LeetCode 874 - Walking Robot Simulation
 
