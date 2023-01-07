@@ -10,3 +10,8 @@ A concatenated substring in s is a substring that contains all the strings of an
     For example, if words = ["ab","cd","ef"], then "abcdef", "abefcd", "cdabef", "cdefab", "efabcd", and "efcdab" are all concatenated strings. "acdbef" is not a concatenated substring because it is not the concatenation of any permutation of words.
 
 Return the starting indices of all the concatenated substrings in s. You can return the answer in any order.
+
+BrainStorm:
+
+Two hashpmap, created for sliding windows words frequency and words list words frequency.
+
