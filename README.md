@@ -44,3 +44,7 @@ LeetCode 1 - Two Sums
 LeetCode 874 - Walking Robot Simulation
 
 LeetCode 49 - Group Anagrams
+
+LeetCode 30 - Substring with Concatenation of All Words
+
+LeetCode 811 - Subdomain Visit Count
