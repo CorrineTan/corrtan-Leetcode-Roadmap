@@ -49,7 +49,7 @@ LeetCode 30 - Substring with Concatenation of All Words
 
 LeetCode 811 - Subdomain Visit Count
 
-### Step 4: [preSum+TwoPointers](https://github.com/CorrineTan/leetcode-roadmap/tree/main/HashMap%2BCollection%2BMap)  
+### Step 4: [preSum+TwoPointers](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)  
 
 LeetCode 11 - Container With Most Water
 
