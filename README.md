@@ -49,6 +49,8 @@ LeetCode 30 - Substring with Concatenation of All Words
 
 LeetCode 811 - Subdomain Visit Count
 
+LeetCode 697 - Degree of an Array
+
 ### Step 4: [preSum+TwoPointers](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)  
 
 LeetCode 11 - Container With Most Water
