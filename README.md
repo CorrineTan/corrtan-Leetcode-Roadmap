@@ -51,7 +51,9 @@ LeetCode 811 - Subdomain Visit Count
 
 LeetCode 697 - Degree of an Array
 
-### Step 4: [preSum+TwoPointers](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)  
+### Step 4: [preSum+TwoPointers](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)
+
+LeetCode 1695 - Maximum Erasure Value  
 
 LeetCode 11 - Container With Most Water
 

@@ -1,4 +1,4 @@
-## HashMap + HashSet + Map
+## preSum + TwoPointer
 
 #### LeetCode 560 - Subarray Sum Equals K
 
