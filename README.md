@@ -62,3 +62,7 @@ LeetCode 560 - Subarray Sum Equals K
 LeetCode 53 - Maximum Subarray
 
 LeetCode 15 - 3Sum
+
+### Step 5: [Regression+Partition](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)
+
+LeetCode 78 - Subsets
