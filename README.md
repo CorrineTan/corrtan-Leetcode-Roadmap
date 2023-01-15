@@ -66,3 +66,7 @@ LeetCode 15 - 3Sum
 ### Step 5: [Regression+Partition](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)
 
 LeetCode 78 - Subsets
+
+LeetCode 226- Invert Binary Tree
+
+LeetCode 236 - Lowest Common Ancestor of a Binary Tree
