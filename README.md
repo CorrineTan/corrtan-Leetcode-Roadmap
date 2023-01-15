@@ -63,7 +63,7 @@ LeetCode 53 - Maximum Subarray
 
 LeetCode 15 - 3Sum
 
-### Step 5: [Regression+Partition](https://github.com/CorrineTan/leetcode-roadmap/tree/main/preSum%2BTwoPointers)
+### Step 5: [Regression+Partition](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Regression+Partition)
 
 LeetCode 78 - Subsets
 
