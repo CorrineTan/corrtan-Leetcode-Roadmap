@@ -76,3 +76,5 @@ LeetCode 287 - Find the Duplicate Number
 LeetCode 125 -  Valid Palindrome
 
 LeetCode 18 - 4Sum
+
+LeetCode 69 - Sqrt(x)
