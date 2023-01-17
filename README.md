@@ -75,8 +75,14 @@ LeetCode 69 - Sqrt(x)
 
 LeetCode 78 - Subsets
 
+- regression_go_thru.java This is just to tear up the regression progress to help me understand it better
+
 LeetCode 226- Invert Binary Tree
 
 LeetCode 236 - Lowest Common Ancestor of a Binary Tree
 
 LeetCode 77 - Combinations
+
+LeetCode 46 -  Permutations
+
+LeetCode 47 -  Permutations II
