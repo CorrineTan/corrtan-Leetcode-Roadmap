@@ -63,6 +63,14 @@ LeetCode 53 - Maximum Subarray
 
 LeetCode 15 - 3Sum
 
+LeetCode 287 - Find the Duplicate Number
+
+LeetCode 125 -  Valid Palindrome
+
+LeetCode 18 - 4Sum
+
+LeetCode 69 - Sqrt(x)
+
 ### Step 5: [Regression+Partition](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Regression+Partition)
 
 LeetCode 78 - Subsets
@@ -71,10 +79,4 @@ LeetCode 226- Invert Binary Tree
 
 LeetCode 236 - Lowest Common Ancestor of a Binary Tree
 
-LeetCode 287 - Find the Duplicate Number
-
-LeetCode 125 -  Valid Palindrome
-
-LeetCode 18 - 4Sum
-
-LeetCode 69 - Sqrt(x)
+LeetCode 77 - Combinations
