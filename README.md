@@ -86,3 +86,9 @@ LeetCode 77 - Combinations
 LeetCode 46 -  Permutations
 
 LeetCode 47 -  Permutations II
+
+LeetCode 111 - Minimum Depth of Binary Tree
+
+LeetCode 104 - Maximum Depth of Binary Tree
+
+- regression_binary_tree_go_thru.java This is just to tear up the regression progress for a binary tree to help me understand it better
