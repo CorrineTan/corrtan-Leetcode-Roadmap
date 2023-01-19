@@ -1,6 +1,6 @@
 ## Regression + Partition
 
-#### LeetCode 226 - Invert Binary Tree
+#### LeetCode 23 - Merge k Sorted Lists
 
 Question: You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
 
