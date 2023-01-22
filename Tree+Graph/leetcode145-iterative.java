@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> answer = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
         TreeNode node = root;
@@ -10,7 +10,6 @@ class Solution {
 
         while(node != null) {
             if(nodeState == leftState) {
-                answer.add(node.val);
                 if(node.left != null) {
                     stack.push(node);
                     node = node.left;
@@ -26,6 +25,7 @@ class Solution {
                     nodeState = upState;
                 }
             } else if (nodeState == upState) {
+                answer.add(node.val);
                 TreeNode parent = null;
                 if (!stack.isEmpty()) {
                     parent = stack.pop();
@@ -38,5 +38,4 @@ class Solution {
         }
         return answer;
     }
-}
-
+} 
