@@ -96,3 +96,13 @@ LeetCode 104 - Maximum Depth of Binary Tree
 LeetCode 50 - Pow(x,n)
 
 LeetCode 23 - Merge k Sorted Lists
+
+### Step 6: [Tree+Graph](https://github.com/CorrineTan/leetcode-roadmap/tree/main/Tree%2BGraph)
+
+Leetcode 144 -  Binary Tree Preorder Traversal (both Iterative and Regressive)
+
+Leetcode 94 -  Binary Tree Inorder Traversal   (both Iterative and Regressive)
+
+Leetcode 145 -  Binary Tree Postorder Traversal (both Iterative and Regressive)
+
+
